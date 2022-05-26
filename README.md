@@ -1,9 +1,9 @@
 <p align="center"><img height=90 src="https://user-images.githubusercontent.com/86874779/169687675-8f6975b7-b448-4cff-83ad-3a3907284137.png"/></p>
 
 # guk mobile
-ℹ️an android mobile application to adopt dogs and donate money to local shelter to help homeless dogs. This app also provides "Story" feature where user can post a picture of their dong and tell a story which will motivate people to also adopt homeless dogs.
+ℹ️ an android mobile application to adopt dogs and donate money to local shelter to help homeless dogs. This app also provides "Story" feature where user can post a picture of their dong and tell a story which will motivate people to also adopt homeless dogs.
 
-📱This project was created using **Android Studio (Java)** with **Firestore Database (Firebase)** as its primary database. This app also provides Google Authentication (with Firebase Auth) which allow user to login using their Google account.
+📱This project was created using **Android Studio (Java)** with **Firestore Database (Firebase)** as its primary database. This app also provides Google Authentication (with Firebase Auth) which allow user to login using their Google account. This application will be released _soon_ and will be available for download on Google Play Store.
 
 👁️Preview:
 ![guk](https://user-images.githubusercontent.com/86874779/169687583-9f2233f2-e4d2-4563-924b-7523c68a23e4.png)
